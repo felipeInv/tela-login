@@ -94,6 +94,6 @@ button{
     border: none;
 }
 div{
-    margin: auto;
+    margin: 0px auto 15px auto;
     margin-top: 0;
 }
